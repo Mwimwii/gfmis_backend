@@ -9,16 +9,15 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-documentation": "^4.7.0",
-    "@strapi/plugin-i18n": "4.8.2",
-    "@strapi/plugin-users-permissions": "4.8.2",
+    "@strapi/plugin-documentation": "^4.0.5",
+    "@strapi/plugin-i18n": "4.11.4",
+    "@strapi/plugin-users-permissions": "4.11.4",
     "@strapi/provider-email-mailgun": "^4.8.2",
     "@strapi/provider-email-sendgrid": "^4.8.2",
     "@strapi/provider-upload-cloudinary": "^4.8.2",
     "@strapi/provider-upload-local": "^4.8.2",
-    "@strapi/strapi": "4.8.2",
+    "@strapi/strapi": "4.11.4",
     "better-sqlite3": "8.0.1",
     "pg": "^8.10.0",
     "strapi-plugin-netlify-deployments": "^2.0.0"
