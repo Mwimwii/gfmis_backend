@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "payments",
+  "info": {
+    "singularName": "payment",
+    "pluralName": "payments",
+    "displayName": "Payment"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "student": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::student.student",
+      "inversedBy": "payments"
+    },
+    "is_verified": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "date_of_validation": {
+      "type": "datetime"
+    },
+    "date_of_disbursement": {
+      "type": "datetime"
+    },
+    "school": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::school.school",
+      "inversedBy": "payments"
+    },
+    "amount": {
+      "type": "string"
+    },
+    "bank_transaction": {
+      "type": "string"
+    }
+  }
+}

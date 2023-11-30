@@ -53,6 +53,12 @@
       "relation": "oneToMany",
       "target": "api::transfer.transfer",
       "mappedBy": "toSchool"
+    },
+    "payments": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::payment.payment",
+      "mappedBy": "school"
     }
   }
 }
