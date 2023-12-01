@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2023-11-30T09:56:16.537Z"
+    "x-generation-date": "2023-11-30T12:39:16.989Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1815,15 +1815,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -4138,15 +4141,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -6494,15 +6500,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -8817,15 +8826,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -11429,15 +11441,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -13800,15 +13815,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -16204,15 +16222,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -18575,15 +18596,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -20852,15 +20876,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -23144,15 +23171,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -25469,15 +25499,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -27761,15 +27794,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -30114,15 +30150,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -32397,15 +32436,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -34713,15 +34755,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -36996,15 +37041,18 @@
                                                                                               "bank_transaction": {
                                                                                                 "type": "string"
                                                                                               },
+                                                                                              "retirment": {
+                                                                                                "type": "string"
+                                                                                              },
+                                                                                              "date_of_retirment": {
+                                                                                                "type": "string",
+                                                                                                "format": "date-time"
+                                                                                              },
                                                                                               "createdAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
                                                                                               "updatedAt": {
-                                                                                                "type": "string",
-                                                                                                "format": "date-time"
-                                                                                              },
-                                                                                              "publishedAt": {
                                                                                                 "type": "string",
                                                                                                 "format": "date-time"
                                                                                               },
@@ -39478,15 +39526,18 @@
                                                                                   "bank_transaction": {
                                                                                     "type": "string"
                                                                                   },
+                                                                                  "retirment": {
+                                                                                    "type": "string"
+                                                                                  },
+                                                                                  "date_of_retirment": {
+                                                                                    "type": "string",
+                                                                                    "format": "date-time"
+                                                                                  },
                                                                                   "createdAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
                                                                                   "updatedAt": {
-                                                                                    "type": "string",
-                                                                                    "format": "date-time"
-                                                                                  },
-                                                                                  "publishedAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
@@ -41764,15 +41815,18 @@
                                                                                   "bank_transaction": {
                                                                                     "type": "string"
                                                                                   },
+                                                                                  "retirment": {
+                                                                                    "type": "string"
+                                                                                  },
+                                                                                  "date_of_retirment": {
+                                                                                    "type": "string",
+                                                                                    "format": "date-time"
+                                                                                  },
                                                                                   "createdAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
                                                                                   "updatedAt": {
-                                                                                    "type": "string",
-                                                                                    "format": "date-time"
-                                                                                  },
-                                                                                  "publishedAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
@@ -44083,15 +44137,18 @@
                                                                                   "bank_transaction": {
                                                                                     "type": "string"
                                                                                   },
+                                                                                  "retirment": {
+                                                                                    "type": "string"
+                                                                                  },
+                                                                                  "date_of_retirment": {
+                                                                                    "type": "string",
+                                                                                    "format": "date-time"
+                                                                                  },
                                                                                   "createdAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
                                                                                   "updatedAt": {
-                                                                                    "type": "string",
-                                                                                    "format": "date-time"
-                                                                                  },
-                                                                                  "publishedAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
@@ -46369,15 +46426,18 @@
                                                                                   "bank_transaction": {
                                                                                     "type": "string"
                                                                                   },
+                                                                                  "retirment": {
+                                                                                    "type": "string"
+                                                                                  },
+                                                                                  "date_of_retirment": {
+                                                                                    "type": "string",
+                                                                                    "format": "date-time"
+                                                                                  },
                                                                                   "createdAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
                                                                                   "updatedAt": {
-                                                                                    "type": "string",
-                                                                                    "format": "date-time"
-                                                                                  },
-                                                                                  "publishedAt": {
                                                                                     "type": "string",
                                                                                     "format": "date-time"
                                                                                   },
@@ -48537,15 +48597,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -50840,15 +50903,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -53176,15 +53242,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -55479,15 +55548,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -57756,15 +57828,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -60048,15 +60123,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -62373,15 +62451,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -64665,15 +64746,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -67090,15 +67174,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -69376,15 +69463,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -71695,15 +71785,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -73981,15 +74074,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -74669,6 +74765,13 @@
               },
               "bank_transaction": {
                 "type": "string"
+              },
+              "retirment": {
+                "type": "string"
+              },
+              "date_of_retirment": {
+                "type": "string",
+                "format": "date-time"
               }
             }
           }
@@ -76330,15 +76433,18 @@
                                                                 "bank_transaction": {
                                                                   "type": "string"
                                                                 },
+                                                                "retirment": {
+                                                                  "type": "string"
+                                                                },
+                                                                "date_of_retirment": {
+                                                                  "type": "string",
+                                                                  "format": "date-time"
+                                                                },
                                                                 "createdAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
                                                                 "updatedAt": {
-                                                                  "type": "string",
-                                                                  "format": "date-time"
-                                                                },
-                                                                "publishedAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
@@ -76921,15 +77027,18 @@
               "bank_transaction": {
                 "type": "string"
               },
+              "retirment": {
+                "type": "string"
+              },
+              "date_of_retirment": {
+                "type": "string",
+                "format": "date-time"
+              },
               "createdAt": {
                 "type": "string",
                 "format": "date-time"
               },
               "updatedAt": {
-                "type": "string",
-                "format": "date-time"
-              },
-              "publishedAt": {
                 "type": "string",
                 "format": "date-time"
               },
@@ -78627,15 +78736,18 @@
                                                                 "bank_transaction": {
                                                                   "type": "string"
                                                                 },
+                                                                "retirment": {
+                                                                  "type": "string"
+                                                                },
+                                                                "date_of_retirment": {
+                                                                  "type": "string",
+                                                                  "format": "date-time"
+                                                                },
                                                                 "createdAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
                                                                 "updatedAt": {
-                                                                  "type": "string",
-                                                                  "format": "date-time"
-                                                                },
-                                                                "publishedAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
@@ -79218,15 +79330,18 @@
               "bank_transaction": {
                 "type": "string"
               },
+              "retirment": {
+                "type": "string"
+              },
+              "date_of_retirment": {
+                "type": "string",
+                "format": "date-time"
+              },
               "createdAt": {
                 "type": "string",
                 "format": "date-time"
               },
               "updatedAt": {
-                "type": "string",
-                "format": "date-time"
-              },
-              "publishedAt": {
                 "type": "string",
                 "format": "date-time"
               },
@@ -80957,15 +81072,18 @@
                                                                 "bank_transaction": {
                                                                   "type": "string"
                                                                 },
+                                                                "retirment": {
+                                                                  "type": "string"
+                                                                },
+                                                                "date_of_retirment": {
+                                                                  "type": "string",
+                                                                  "format": "date-time"
+                                                                },
                                                                 "createdAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
                                                                 "updatedAt": {
-                                                                  "type": "string",
-                                                                  "format": "date-time"
-                                                                },
-                                                                "publishedAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
@@ -81548,15 +81666,18 @@
               "bank_transaction": {
                 "type": "string"
               },
+              "retirment": {
+                "type": "string"
+              },
+              "date_of_retirment": {
+                "type": "string",
+                "format": "date-time"
+              },
               "createdAt": {
                 "type": "string",
                 "format": "date-time"
               },
               "updatedAt": {
-                "type": "string",
-                "format": "date-time"
-              },
-              "publishedAt": {
                 "type": "string",
                 "format": "date-time"
               },
@@ -83254,15 +83375,18 @@
                                                                 "bank_transaction": {
                                                                   "type": "string"
                                                                 },
+                                                                "retirment": {
+                                                                  "type": "string"
+                                                                },
+                                                                "date_of_retirment": {
+                                                                  "type": "string",
+                                                                  "format": "date-time"
+                                                                },
                                                                 "createdAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
                                                                 "updatedAt": {
-                                                                  "type": "string",
-                                                                  "format": "date-time"
-                                                                },
-                                                                "publishedAt": {
                                                                   "type": "string",
                                                                   "format": "date-time"
                                                                 },
@@ -83845,15 +83969,18 @@
               "bank_transaction": {
                 "type": "string"
               },
+              "retirment": {
+                "type": "string"
+              },
+              "date_of_retirment": {
+                "type": "string",
+                "format": "date-time"
+              },
               "createdAt": {
                 "type": "string",
                 "format": "date-time"
               },
               "updatedAt": {
-                "type": "string",
-                "format": "date-time"
-              },
-              "publishedAt": {
                 "type": "string",
                 "format": "date-time"
               },
@@ -85640,15 +85767,18 @@
                                                                                                 "bank_transaction": {
                                                                                                   "type": "string"
                                                                                                 },
+                                                                                                "retirment": {
+                                                                                                  "type": "string"
+                                                                                                },
+                                                                                                "date_of_retirment": {
+                                                                                                  "type": "string",
+                                                                                                  "format": "date-time"
+                                                                                                },
                                                                                                 "createdAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
                                                                                                 "updatedAt": {
-                                                                                                  "type": "string",
-                                                                                                  "format": "date-time"
-                                                                                                },
-                                                                                                "publishedAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
@@ -87909,15 +88039,18 @@
                                                                                                 "bank_transaction": {
                                                                                                   "type": "string"
                                                                                                 },
+                                                                                                "retirment": {
+                                                                                                  "type": "string"
+                                                                                                },
+                                                                                                "date_of_retirment": {
+                                                                                                  "type": "string",
+                                                                                                  "format": "date-time"
+                                                                                                },
                                                                                                 "createdAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
                                                                                                 "updatedAt": {
-                                                                                                  "type": "string",
-                                                                                                  "format": "date-time"
-                                                                                                },
-                                                                                                "publishedAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
@@ -90211,15 +90344,18 @@
                                                                                                 "bank_transaction": {
                                                                                                   "type": "string"
                                                                                                 },
+                                                                                                "retirment": {
+                                                                                                  "type": "string"
+                                                                                                },
+                                                                                                "date_of_retirment": {
+                                                                                                  "type": "string",
+                                                                                                  "format": "date-time"
+                                                                                                },
                                                                                                 "createdAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
                                                                                                 "updatedAt": {
-                                                                                                  "type": "string",
-                                                                                                  "format": "date-time"
-                                                                                                },
-                                                                                                "publishedAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
@@ -92480,15 +92616,18 @@
                                                                                                 "bank_transaction": {
                                                                                                   "type": "string"
                                                                                                 },
+                                                                                                "retirment": {
+                                                                                                  "type": "string"
+                                                                                                },
+                                                                                                "date_of_retirment": {
+                                                                                                  "type": "string",
+                                                                                                  "format": "date-time"
+                                                                                                },
                                                                                                 "createdAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
                                                                                                 "updatedAt": {
-                                                                                                  "type": "string",
-                                                                                                  "format": "date-time"
-                                                                                                },
-                                                                                                "publishedAt": {
                                                                                                   "type": "string",
                                                                                                   "format": "date-time"
                                                                                                 },
@@ -94695,15 +94834,18 @@
                                                                                                             "bank_transaction": {
                                                                                                               "type": "string"
                                                                                                             },
+                                                                                                            "retirment": {
+                                                                                                              "type": "string"
+                                                                                                            },
+                                                                                                            "date_of_retirment": {
+                                                                                                              "type": "string",
+                                                                                                              "format": "date-time"
+                                                                                                            },
                                                                                                             "createdAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
                                                                                                             "updatedAt": {
-                                                                                                              "type": "string",
-                                                                                                              "format": "date-time"
-                                                                                                            },
-                                                                                                            "publishedAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
@@ -97067,15 +97209,18 @@
                                                                                                             "bank_transaction": {
                                                                                                               "type": "string"
                                                                                                             },
+                                                                                                            "retirment": {
+                                                                                                              "type": "string"
+                                                                                                            },
+                                                                                                            "date_of_retirment": {
+                                                                                                              "type": "string",
+                                                                                                              "format": "date-time"
+                                                                                                            },
                                                                                                             "createdAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
                                                                                                             "updatedAt": {
-                                                                                                              "type": "string",
-                                                                                                              "format": "date-time"
-                                                                                                            },
-                                                                                                            "publishedAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
@@ -99472,15 +99617,18 @@
                                                                                                             "bank_transaction": {
                                                                                                               "type": "string"
                                                                                                             },
+                                                                                                            "retirment": {
+                                                                                                              "type": "string"
+                                                                                                            },
+                                                                                                            "date_of_retirment": {
+                                                                                                              "type": "string",
+                                                                                                              "format": "date-time"
+                                                                                                            },
                                                                                                             "createdAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
                                                                                                             "updatedAt": {
-                                                                                                              "type": "string",
-                                                                                                              "format": "date-time"
-                                                                                                            },
-                                                                                                            "publishedAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
@@ -101844,15 +101992,18 @@
                                                                                                             "bank_transaction": {
                                                                                                               "type": "string"
                                                                                                             },
+                                                                                                            "retirment": {
+                                                                                                              "type": "string"
+                                                                                                            },
+                                                                                                            "date_of_retirment": {
+                                                                                                              "type": "string",
+                                                                                                              "format": "date-time"
+                                                                                                            },
                                                                                                             "createdAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
                                                                                                             "updatedAt": {
-                                                                                                              "type": "string",
-                                                                                                              "format": "date-time"
-                                                                                                            },
-                                                                                                            "publishedAt": {
                                                                                                               "type": "string",
                                                                                                               "format": "date-time"
                                                                                                             },
@@ -104338,15 +104489,18 @@
                                                                                                           "bank_transaction": {
                                                                                                             "type": "string"
                                                                                                           },
+                                                                                                          "retirment": {
+                                                                                                            "type": "string"
+                                                                                                          },
+                                                                                                          "date_of_retirment": {
+                                                                                                            "type": "string",
+                                                                                                            "format": "date-time"
+                                                                                                          },
                                                                                                           "createdAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
                                                                                                           "updatedAt": {
-                                                                                                            "type": "string",
-                                                                                                            "format": "date-time"
-                                                                                                          },
-                                                                                                          "publishedAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
@@ -106739,15 +106893,18 @@
                                                                                                           "bank_transaction": {
                                                                                                             "type": "string"
                                                                                                           },
+                                                                                                          "retirment": {
+                                                                                                            "type": "string"
+                                                                                                          },
+                                                                                                          "date_of_retirment": {
+                                                                                                            "type": "string",
+                                                                                                            "format": "date-time"
+                                                                                                          },
                                                                                                           "createdAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
                                                                                                           "updatedAt": {
-                                                                                                            "type": "string",
-                                                                                                            "format": "date-time"
-                                                                                                          },
-                                                                                                          "publishedAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
@@ -109173,15 +109330,18 @@
                                                                                                           "bank_transaction": {
                                                                                                             "type": "string"
                                                                                                           },
+                                                                                                          "retirment": {
+                                                                                                            "type": "string"
+                                                                                                          },
+                                                                                                          "date_of_retirment": {
+                                                                                                            "type": "string",
+                                                                                                            "format": "date-time"
+                                                                                                          },
                                                                                                           "createdAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
                                                                                                           "updatedAt": {
-                                                                                                            "type": "string",
-                                                                                                            "format": "date-time"
-                                                                                                          },
-                                                                                                          "publishedAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
@@ -111574,15 +111734,18 @@
                                                                                                           "bank_transaction": {
                                                                                                             "type": "string"
                                                                                                           },
+                                                                                                          "retirment": {
+                                                                                                            "type": "string"
+                                                                                                          },
+                                                                                                          "date_of_retirment": {
+                                                                                                            "type": "string",
+                                                                                                            "format": "date-time"
+                                                                                                          },
                                                                                                           "createdAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
                                                                                                           "updatedAt": {
-                                                                                                            "type": "string",
-                                                                                                            "format": "date-time"
-                                                                                                          },
-                                                                                                          "publishedAt": {
                                                                                                             "type": "string",
                                                                                                             "format": "date-time"
                                                                                                           },
@@ -114369,15 +114532,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -116692,15 +116858,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -119048,15 +119217,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -121371,15 +121543,18 @@
                                                                                 "bank_transaction": {
                                                                                   "type": "string"
                                                                                 },
+                                                                                "retirment": {
+                                                                                  "type": "string"
+                                                                                },
+                                                                                "date_of_retirment": {
+                                                                                  "type": "string",
+                                                                                  "format": "date-time"
+                                                                                },
                                                                                 "createdAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
                                                                                 "updatedAt": {
-                                                                                  "type": "string",
-                                                                                  "format": "date-time"
-                                                                                },
-                                                                                "publishedAt": {
                                                                                   "type": "string",
                                                                                   "format": "date-time"
                                                                                 },
@@ -123584,15 +123759,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -125893,15 +126071,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -128235,15 +128416,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -130544,15 +130728,18 @@
                                                                   "bank_transaction": {
                                                                     "type": "string"
                                                                   },
+                                                                  "retirment": {
+                                                                    "type": "string"
+                                                                  },
+                                                                  "date_of_retirment": {
+                                                                    "type": "string",
+                                                                    "format": "date-time"
+                                                                  },
                                                                   "createdAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
                                                                   "updatedAt": {
-                                                                    "type": "string",
-                                                                    "format": "date-time"
-                                                                  },
-                                                                  "publishedAt": {
                                                                     "type": "string",
                                                                     "format": "date-time"
                                                                   },
@@ -141648,15 +141835,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -143910,15 +144100,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -146205,15 +146398,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -148467,15 +148663,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -150752,15 +150951,18 @@
                                                                                                                                       "bank_transaction": {
                                                                                                                                         "type": "string"
                                                                                                                                       },
+                                                                                                                                      "retirment": {
+                                                                                                                                        "type": "string"
+                                                                                                                                      },
+                                                                                                                                      "date_of_retirment": {
+                                                                                                                                        "type": "string",
+                                                                                                                                        "format": "date-time"
+                                                                                                                                      },
                                                                                                                                       "createdAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
                                                                                                                                       "updatedAt": {
-                                                                                                                                        "type": "string",
-                                                                                                                                        "format": "date-time"
-                                                                                                                                      },
-                                                                                                                                      "publishedAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
@@ -153043,15 +153245,18 @@
                                                                                                                                       "bank_transaction": {
                                                                                                                                         "type": "string"
                                                                                                                                       },
+                                                                                                                                      "retirment": {
+                                                                                                                                        "type": "string"
+                                                                                                                                      },
+                                                                                                                                      "date_of_retirment": {
+                                                                                                                                        "type": "string",
+                                                                                                                                        "format": "date-time"
+                                                                                                                                      },
                                                                                                                                       "createdAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
                                                                                                                                       "updatedAt": {
-                                                                                                                                        "type": "string",
-                                                                                                                                        "format": "date-time"
-                                                                                                                                      },
-                                                                                                                                      "publishedAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
@@ -155367,15 +155572,18 @@
                                                                                                                                       "bank_transaction": {
                                                                                                                                         "type": "string"
                                                                                                                                       },
+                                                                                                                                      "retirment": {
+                                                                                                                                        "type": "string"
+                                                                                                                                      },
+                                                                                                                                      "date_of_retirment": {
+                                                                                                                                        "type": "string",
+                                                                                                                                        "format": "date-time"
+                                                                                                                                      },
                                                                                                                                       "createdAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
                                                                                                                                       "updatedAt": {
-                                                                                                                                        "type": "string",
-                                                                                                                                        "format": "date-time"
-                                                                                                                                      },
-                                                                                                                                      "publishedAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
@@ -157658,15 +157866,18 @@
                                                                                                                                       "bank_transaction": {
                                                                                                                                         "type": "string"
                                                                                                                                       },
+                                                                                                                                      "retirment": {
+                                                                                                                                        "type": "string"
+                                                                                                                                      },
+                                                                                                                                      "date_of_retirment": {
+                                                                                                                                        "type": "string",
+                                                                                                                                        "format": "date-time"
+                                                                                                                                      },
                                                                                                                                       "createdAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
                                                                                                                                       "updatedAt": {
-                                                                                                                                        "type": "string",
-                                                                                                                                        "format": "date-time"
-                                                                                                                                      },
-                                                                                                                                      "publishedAt": {
                                                                                                                                         "type": "string",
                                                                                                                                         "format": "date-time"
                                                                                                                                       },
@@ -160136,15 +160347,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -162495,15 +162709,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -164887,15 +165104,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
@@ -167246,15 +167466,18 @@
                                                                                                                         "bank_transaction": {
                                                                                                                           "type": "string"
                                                                                                                         },
+                                                                                                                        "retirment": {
+                                                                                                                          "type": "string"
+                                                                                                                        },
+                                                                                                                        "date_of_retirment": {
+                                                                                                                          "type": "string",
+                                                                                                                          "format": "date-time"
+                                                                                                                        },
                                                                                                                         "createdAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
                                                                                                                         "updatedAt": {
-                                                                                                                          "type": "string",
-                                                                                                                          "format": "date-time"
-                                                                                                                        },
-                                                                                                                        "publishedAt": {
                                                                                                                           "type": "string",
                                                                                                                           "format": "date-time"
                                                                                                                         },
