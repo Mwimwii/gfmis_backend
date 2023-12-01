@@ -4,10 +4,11 @@
   "info": {
     "singularName": "payment",
     "pluralName": "payments",
-    "displayName": "Payment"
+    "displayName": "Payment",
+    "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
@@ -39,6 +40,12 @@
     },
     "bank_transaction": {
       "type": "string"
+    },
+    "retirment": {
+      "type": "string"
+    },
+    "date_of_retirment": {
+      "type": "datetime"
     }
   }
 }
